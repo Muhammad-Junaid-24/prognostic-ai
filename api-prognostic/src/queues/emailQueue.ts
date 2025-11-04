@@ -16,7 +16,7 @@ const emailQueue = new Queue("emailQueue", {
   redis: {
     host: "prognostic.redis.cache.windows.net", // Replace with Azure Redis hostname
     port: 6380, // Default Redis port
-    password: "8ICnzh53fOAfCpskcwlTuhWsPReZnnoYWAzCaC0llqQ=", // Replace with Azure Redis access key
+    password: "DummyPassword", // Replace with Azure Redis access key
     tls: { rejectUnauthorized: false }, // Ensure TLS works correctly for Azure Redis
     maxRetriesPerRequest: null, // Disable retry limit
     enableReadyCheck: false, // Avoid readiness check failures

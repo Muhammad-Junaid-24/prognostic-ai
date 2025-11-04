@@ -16,6 +16,6 @@ export const EMAIL_OPTIONS = {
 };
 
 export const SENDGRID_API_KEY =
-  "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";
+  "SG.oJX5Yk3TS6G6bYVYx5Y1vQ.FakeApiKeyForExampleOnlyReplaceWithRealOne";
 
 export const FREE_LEADS = 500;

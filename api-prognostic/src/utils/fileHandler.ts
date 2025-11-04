@@ -8,8 +8,7 @@ import axios from "axios";
 import { BACKEND_URL } from "../constants";
 
 const TYPEFORM_API_URL = "https://api.typeform.com/forms";
-const TYPEFORM_API_TOKEN =
-  "tfp_BqAkpNT727EGTViwKiBYxQ9cpCiBivXpQWrj9vVXYemU_3srLEy8ubHDVjZ";
+const TYPEFORM_API_TOKEN = "yourtypeformapitokenhereREPLACEitwithactualtoken";
 const THEMES_API_URL = "https://api.typeform.com/themes";
 const WORKSPACES_API_URL = "https://api.typeform.com/workspaces";
 const TYPEFORM_RESPONSES_URL = "https://api.typeform.com/forms";
